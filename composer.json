@@ -1,0 +1,23 @@
+{
+	"name": "slim-mvc/bower-asset",
+    "description": "Bower-Assets for slimMVC",
+	"keywords": ["Bower-Assets", "BowerAssets","slimMVC","slim MVC"],
+	"homepage": "https://github.com/PhiHung908",
+    "support": {
+        "issues": "https://github.com/PhiHung908/Slim4-MVC/issues",
+        "source": "https://github.com/PhiHung908/Slim4-MVC.git"
+    },
+	"type": "bower-asset",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Phi Hùng",
+            "email": "vmkeyb908@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+			"@bower\\": ""
+        }
+    }
+}
